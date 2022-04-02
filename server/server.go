@@ -19,6 +19,7 @@ import (
 	"sync"
 	"sync/atomic"
 	"time"
+	"kcp"
 
 	"github.com/smallnest/rpcx/log"
 	"github.com/smallnest/rpcx/protocol"
